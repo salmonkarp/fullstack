@@ -1,2 +1,2 @@
-# fullstack1
-Part 1 Submission for FullstackOpen course.
+# fullstack
+Submissions for FullstackOpen course.
